@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="soumyo19" fetch="https://github.com"/>
+  <project name="soumyo19/device_oneplus_lemonkebab" path="device/oneplus/lemonkebab" remote="soumyo19" revision="12-AC" />
+  <project name="soumyo19/vendor_oneplus_lemonkebab" path="vendor/oneplus/lemonkebab" remote="soumyo19" revision="12+" />
+  <project name="Blaster4385/IllusionX_sm8250" path="kernel/oneplus/sm8250" remote="Blaster4385" revision="custom" />
+ </manifest>
